@@ -1,0 +1,13 @@
+@import url("../fonts/vazir/font-face.css");
+@import url("../fonts/fontAwesome/all.min.css");
+@import url("../../public/vendor/select2/dist/css/select2.min.css");
+body{
+    font-family: "Vazir-FD";
+}
+.pdp-default .days,
+.pdp-default .dow,
+.pdp-default .pdp-footer,
+.pdp-default .yearSelect,
+.pdp-default .monthSelect{
+    font-family: Vazir;
+}
